@@ -243,7 +243,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 --------------------------------------*/
 .welcome-hero {
     position: relative;
-    background:url(../images/welcome-hero/banner.jpg)no-repeat;
+    background:url(../images/welcome-hero/banner.webp)no-repeat;
     background-position:center;
     background-size:cover;
     text-align: center;
@@ -620,6 +620,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     -ms-transition:.3s; 
     -o-transition:.3s;
     transition: .3s;
+    width: 100%; 
+    height: 100%;
 }
 .testimonial-person {
     margin-left: 15px;
@@ -731,6 +733,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     -ms-transition:.3s; 
     -o-transition:.3s;
     transition: .3s;
+}
+.single-blog-item-img img{
+    width: 100%; height: 100%;
 }
 .single-blog-item-txt {padding:  25px 28px 27px;}
 .single-blog-item-txt h2 a {text-transform:  initial;line-height: 1.8;}
