@@ -518,7 +518,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     padding: 26px 25px 24px 15px;
 }
 .single-explore-txt.bg-theme-1 .explore-rating{background: #065106;}
-.single-explore-txt.bg-theme-2 .explore-rating{background: #00c61c;}
+.single-explore-txt.bg-theme-2 .explore-rating{background: #c9470b;}
 .single-explore-txt.bg-theme-3 .explore-rating{background: #065106}
 .single-explore-txt.bg-theme-4 .explore-rating{background: #065106}
 .single-explore-txt.bg-theme-5 .explore-rating{background: #065106}
@@ -530,7 +530,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     font-weight: 400;
     margin: 15px 0 20px;
 }
-.explore-rating-price a {margin:0;}
+.explore-rating-price a {margin:0; font-size: 15px;}
 .explore-rating {
     display: inline-block;
     width: 32px;
@@ -602,6 +602,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 .single-testimonial-box{
     width: 404px;
     background:#fff;
+    color: #333;
 }
 /* testimonial-info */
 .testimonial-info {
@@ -629,7 +630,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     font-size: 18px;
 }
 .testimonial-person h4 {
-    color: #a2a5ab;
+    color: #4C5462;
     font-size: 14px;
     font-weight: 400;
     margin-top: 10px;
@@ -645,7 +646,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     margin-top: 18px;
 }
 .testimonial-comment p{
-    color: #8d939e;
+    color: #535560;
     font-size: 14px;
     font-weight: 300;
 }/* testimonial-comment */
@@ -761,7 +762,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     padding:150px 0;
 }
 /*subscribe-title*/
- .subscribe-title {margin-bottom: 52px;}
+ .subscribe-title {margin-bottom: 52px; color: #000;}
 
 .subscribe-title h2{
     font-size:24px;
@@ -769,7 +770,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     text-transform: uppercase;
 }
 .subscribe-title p{
-    color:#7b8088;
+    color:#646B72;
     font-size:16px;
     font-weight: 500;
     margin-top: 28px;
@@ -811,7 +812,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     position: absolute;
     top: 0;
     right: 0;
-    background: #ff545a;
+    background: #B30024;
     display: inline-block;
     width: 180px;
     height: 60px;
